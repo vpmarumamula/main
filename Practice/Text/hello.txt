@@ -1,1 +1,2 @@
 This is first entered text 
+This line is being added in v2 to test merging to master
